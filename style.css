@@ -56,3 +56,13 @@
   background-size: cover;
   background-position: fixed;
 }
+
+.text{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 50vh;
+  color: white;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+}
